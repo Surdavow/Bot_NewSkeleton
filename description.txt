@@ -1,0 +1,3 @@
+Title: Revised Bot Skeleton
+Author: Davow
+Original mod by Phydeoux, but this included a new datablock and much more changes
